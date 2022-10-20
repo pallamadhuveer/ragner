@@ -6,12 +6,7 @@ Main() {
 function1(){
 
 
-<<<<<<< HEAD
-
-}
-=======
 //vikings son of ragner
 }
 
->>>>>>> vikings
 }
