@@ -6,7 +6,9 @@ Main() {
 function1(){
 
 
-//vikings son of ragner
+//vikings son of ragner Lothbrok
+//vkings
+//ivar
 }
 
 }
